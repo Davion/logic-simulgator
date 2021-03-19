@@ -18,3 +18,6 @@ The page will consist of:
         Right sidebar: L-Gate OUTPUT
   
   Footer -> Horizontal list of L-Gates default and user created
+
+
+Front-End Framework: Angular.
