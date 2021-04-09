@@ -20,4 +20,6 @@ The page will consist of:
   Footer -> Horizontal list of L-Gates default and user created
 
 
-Front-End Framework: Angular.
+Front-End Framework: Angular
+
+starting soon...
